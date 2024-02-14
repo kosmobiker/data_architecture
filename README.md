@@ -40,3 +40,8 @@ Here, I'll outline the key components of each part of the data platform and delv
 **H. Data quality and data linage**
 
 
+## Diagram
+
+Raw version
+
+![Diagram](./diagram/infra.drawio.svg)
