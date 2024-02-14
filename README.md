@@ -4,6 +4,9 @@ Last time, I realized that my knowledge in data engineering is quite extensive. 
 
 The whole data platform consists of several parts, and I am going to describe each of them seperatly.
 
+Here, I'll outline the key components of each part of the data platform and delve into the technologies that can be used, best practices for their implementation, and how they fit into the larger ecosystem of data management. This guide will serve as a blueprint for establishing a data-driven culture within an organization, ensuring that every decision is backed by empirical evidence and advanced analytics.
+
+
 
 ## Context:
 
@@ -34,4 +37,6 @@ The whole data platform consists of several parts, and I am going to describe ea
 
 **G. Security**
 
-Here, I'll outline the key components of each part of the data platform and delve into the technologies that can be used, best practices for their implementation, and how they fit into the larger ecosystem of data management. This guide will serve as a blueprint for establishing a data-driven culture within an organization, ensuring that every decision is backed by empirical evidence and advanced analytics.
+**H. Data quality and data linage**
+
+
