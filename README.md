@@ -11,26 +11,31 @@ Here, I'll outline the key components of each part of the data platform and delv
 ## Data Architecture Components
 
 **A. Data Ingestion**
+
 1. Batch data
 2. Streaming data
 3. Batch ingestion
 4. Streaming ingestion and pre-processing
 
 **B. Data Platform**
+
 5. Data storage
 6. ETL Cluster
 7. Ad-hoc cluster
 8. Real-time analytics cluster
 
 **C. ML Platform**
+
 9. Experiment Tracking and model registry
 10. Feature Store
 11. ML Serving cluster
 
 **D. BI**
+
 12. BI Cluster
 
 **E. Orchestration**
+
 13. Airflow Cluster
 
 **F. Infrastructure**
