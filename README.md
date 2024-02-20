@@ -12,7 +12,7 @@ Here, I'll outline the key components of each part of the data platform and delv
 
 **A. Data Ingestion**
 
-1. Batch data
+1. [Batch data](./src/data%20ingestion/batch_data.md)
 2. Streaming data
 3. Batch ingestion
 4. Streaming ingestion and pre-processing
