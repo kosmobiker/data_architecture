@@ -41,6 +41,18 @@ which can be challenging in some cases.
 3. **Data security**: With the collection and processing of large amounts of sensitive data, businesses must ensure that they are protecting their data from unauthorized access or breaches.
 4. **Data privacy**: As businesses collect and process more data, there is a growing concern for data privacy, which can be managed through the use of appropriate security measures and data protection policies.
 
+## What formats to use to store batch data?
+
+When storing batch data, there are several formats that can be used based on the specific requirements and use cases. Some commonly used formats for storing batch data include:
+1. CSV (Comma-Separated Values): CSV is a simple and widely supported format for storing tabular data. It is human-readable and can be easily imported and exported by various tools and applications.
+2. JSON (JavaScript Object Notation): JSON is a lightweight and flexible format for storing structured data. It is widely used in web applications and provides a hierarchical representation of data.
+3. Parquet: Parquet is a columnar storage format that is optimized for big data processing. It provides efficient compression and encoding techniques, making it suitable for large-scale data analytics.
+4. Avro: Avro is a compact and efficient data serialization format. It supports schema evolution and is often used in data integration and messaging systems.
+5. ORC (Optimized Row Columnar): ORC is another columnar storage format that is designed for high-performance analytics. It offers advanced compression and indexing capabilities.
+6. Apache Parquet: Apache Parquet is a columnar storage format that is optimized for big data processing. It provides efficient compression and encoding techniques, making it suitable for large-scale data analytics.
+
+
+These are just a few examples of the formats that can be used to store batch data. The choice of format depends on factors such as data size, query performance, compatibility with existing systems, and specific use case requirements.
 
 ## Tools
 

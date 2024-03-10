@@ -1,5 +1,7 @@
 # Batch data
 
+## What is batch data
+
 Batch data refers to a collection of data that is processed and analyzed together as a group. In contrast to real-time or streaming data, batch data is typically collected over a period of time and processed in batches. This approach is commonly used in data warehousing, data integration, and data analytics scenarios.
 
 Batch data processing offers several advantages, including the ability to handle large volumes of data, perform complex transformations and aggregations, and optimize resource utilization. It is often used for tasks such as data cleansing, data enrichment, and generating reports.
@@ -8,7 +10,7 @@ To process batch data, various technologies and frameworks are available, such a
 
 Overall, batch data processing plays a crucial role in managing and analyzing large volumes of data, enabling organizations to gain valuable insights and make informed decisions based on the processed data.
 
-# Sources of batch data
+## Sources of batch data
 
 Batch data can be sourced from various systems and applications. Some common sources of batch data include:
 
@@ -29,3 +31,4 @@ Batch data can be sourced from various systems and applications. Some common sou
 8. Logs: Application logs, server logs, or system logs can be sources of batch data. These logs can provide valuable insights into system performance, user behavior, and error tracking when processed in batches.
 
 These are just a few examples of the sources of batch data. The choice of source depends on the specific requirements and architecture of the data ingestion process.
+

@@ -15,9 +15,9 @@ The purpose of this guide is to provide a comprehensive blueprint for establishi
 **A. Data Ingestion**
 
 1. [Batch data](./src/data_ingestion/batch_data.md)
-2. Streaming data
+2. [Streaming data](./src/data_ingestion/streaming_data.md)
 3. [Batch ingestion](./src/data_ingestion/batch_ingestion.md)
-4. Streaming ingestion and pre-processing
+4. [Streaming ingestion and pre-processing](./src/data_ingestion/streaming_ingestion.md)
 
 **B. Data Platform**
 
