@@ -46,8 +46,8 @@ which can be challenging in some cases.
 
 Based on this [article](https://www.integrate.io/blog/top-data-ingestion-tools/).
 
-1. [Airbyte](https://airbyte.com/) - personal favourite
+1. [Airbyte](https://airbyte.com/) - personal favorite
 2. [Matillion](https://www.matillion.com/)
 3. [Hevo](https://hevodata.com/)
 4. [Integrate.io](https://www.integrate.io/)
-4. Custom solution - varios self-made fetchers 
+4. Custom solution - various self-made fetchers 
