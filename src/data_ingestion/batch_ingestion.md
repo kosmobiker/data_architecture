@@ -63,3 +63,15 @@ Based on this [article](https://www.integrate.io/blog/top-data-ingestion-tools/)
 3. [Hevo](https://hevodata.com/)
 4. [Integrate.io](https://www.integrate.io/)
 4. Custom solution - various self-made fetchers 
+
+## Methodology
+
+Selected tool (**Airbyte** with custom connectors if requited) gets data from sources on schedule and upload it to the *Landing Zone* on S3. What is important here is to create a fault-tolerant solution to check quality of extracted data and notify Data team if any issues appeared. 
+
+High level logic:
+1. On schedule try to upload data from source
+2. In case of failure repeat n times after m minutes
+3. Send message to Slack with status
+
+
+
